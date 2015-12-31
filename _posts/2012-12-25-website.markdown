@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "We finally have a website!"
+image: "/img/blog/logo.png"
+summary: "It’s been a little over a year since we started Euglena Labs – we bought our domain name, a server and everything with great excitement. The only thing we forgot to do was actually"
+date:   2012-12-25
+---
+<img src="/img/blog/logo.png" class="top-image" />
+
+It’s been a little over a year since we started Euglena Labs – we bought our domain name, a server and everything with great excitement. The only thing we forgot to do was actually make a website. Well, we finally have one!
+
+This website will showcase some of the things that we are working on. It would be awesome if you could sign up for updates by filingout the form on [our front page](/#home). We promise not to spam – just send updates whenever we release something new to the world.
+
+So, what is Euglena Labs?
+
+Perhaps I should introduce myself – my name is Ayush Sood. I’m a student at Stanford University studying mechatronics. I really like making things. Euglena Labs is the home for a lot of my projects and collaborations. We’re currently in the process of releasing a couple of iPhone games that we’ve been working on. These games have been collaboratively developed by Vidhvat Madan, a game developer, Yanni Davros, a concept artist and me – you’ll see a blog post about them as they come out.
+
+Bananas.

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Scarabs"
+image: "/img/blog/scarabs.png"
+summary: "We are happy to finally write about a game we have been developing: Scarabs. Scarabs is a game suited for all occasions. An Egyptian twist on the"
+date:   2012-12-27
+---
+<img src="/img/blog/scarabs.png" class="top-image" />
+
+We are happy to finally write about a game we have been developing: Scarabs. Scarabs is a game suited for all occasions. An Egyptian twist on the classic shell game, Scarabs rewards you for following a scarab hidden under jars as they are shuffled.
+
+The game advances in difficulty the more you play. Furthermore we have introduced several challenge game modes to test your skills!
+
+Please check it out and tell us what you think! [Click here to download!](https://itunes.apple.com/us/app/scarabs/id492663166?mt=8)
+
+![Scarabs Screenshot 1](/img/blog/scarabs_screenshot_1.jpg)
+![Scarabs Screenshot 2](/img/blog/scarabs_screenshot_2.jpg)

@@ -1,0 +1,9 @@
+title: Euglena Labs
+email: guru@euglenalabs.com
+description: >
+  Euglena Labs is a playground created by Ayush Sood for his project ideas.
+baseurl: ""
+url: "http://euglenalabs.com"
+
+# Build settings
+markdown: kramdown

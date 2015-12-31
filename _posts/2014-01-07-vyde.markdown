@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "VYDE"
+image: "/img/blog/vyde.png"
+summary: "We are happy to finally write about a game we have been developing: Scarabs. Scarabs is a game suited for all occasions. An Egyptian twist on the classic shell"
+summary: "We are very excited to announce the launch of VYDE! We&#x2019;ve been working on this game concept for the past year - refining and redoing levels until we were"
+date:   2014-01-07
+---
+<img src="/img/blog/vyde.png" class="top-image" />
+
+We are very excited to announce the launch of VYDE! We&#x2019;ve been working on this game concept for the past year - refining and redoing levels until we were satisfied. Lesson learned: game design a difficult task of balancing multiple aspects of play.
+
+What is VYDE? Good question. VYDE is a top down touch based stealth game. You&#x2019;ve infiltrated the headquarters of a rogue organization. With vital information in your satchel (yep, you&#x2019;re that cool), your objective is to escape the enemy stronghold full of baddies - a childhood dream come true!
+
+Use your ability to blend in with the environment to hide in plain sight. Evade patrolling guards room after room on each floor of the skyscraper without being seen and make your way to the ground floor before the sun comes out.
+
+Ready for fun? Download here:
+
+[![VYDE LOGO](/img/blog/vyde.png)](https://itunes.apple.com/us/app/vyde/id560817843?ls=1&mt=8)
+
+Here is some more information for those who are not easily convinced:
+
+  - 80 Challenging Levels - from the Penthouse and Observatory on the upper levels to the Hotel rooms and Restaurants, go deeper into the enemy's lair, discover the Laboratories and uncover their secrets.
+
+![VYDE SCREENSHOT 1](/img/blog/vyde_screenshot_1.png)
+![VYDE SCREENSHOT 2](/img/blog/vyde_screenshot_2.png)
+
+  - Record Times and Loot - explore to find the safest path through each scenario or approach each mission with different objectives. Beat the expected completion time or clean out all the the loot from every corner of the room to earn stars.
+
+  - Bonus Objectives - if you think you have it in you, try to extract the white briefcase from the most hard to reach spots on each floor. Earn extra rewards by completing the secondary objective.
+
+![VYDE SCREENSHOT 3](/img/blog/vyde_screenshot_3.png)
+
+  - One Unarmed Spy - Equipped only with the ability to go invisible in your surroundings, use cunning to move like a ghost unnoticed.
+![VYDE SCREENSHOT 4](/img/blog/vyde_screenshot_4.png)
+
+Finally ready? Download here:
+
+[![VYDE LOGO](/img/blog/vyde.png)](https://itunes.apple.com/us/app/vyde/id560817843?ls=1&mt=8)
